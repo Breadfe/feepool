@@ -23,4 +23,4 @@ hihihihi
 건태도 이제 된 듯
 
 push
-영철이 바보 q
+영철이 바보 qd
