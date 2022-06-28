@@ -27,4 +27,4 @@ push
 
 영철이 바보
 
-용성이 내가 push 했다 pull 해봐
+용성이 내가 push 했다 pull 해봐.
