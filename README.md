@@ -6,6 +6,7 @@ flutter_study_day1
 이예지[0]
 박건태[]
 김채연[]
+권용성[]
 
 내가 또 수정하고 있음
 hihihihi
