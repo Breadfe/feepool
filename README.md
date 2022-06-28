@@ -24,4 +24,6 @@ hihihihi
 
 push
 
+이것도 full 해보셈dfgdf
+
 develop
